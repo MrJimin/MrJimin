@@ -9,14 +9,11 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://wakatime.com/badge/user/84e9adb4-13fd-436f-8c3f-077147703b97.svg?style=flat-square"/>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjimin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=84e9adb4-13fd-436f-8c3f-077147703b97&theme=tokyonight&layout=compact&hide_border=false" alt="Wakatime Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjimin&theme=tokyonight&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="Top Langs">
-</p>
+---
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/941656615600418868) [![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@MrJimin)
