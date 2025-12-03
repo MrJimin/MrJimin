@@ -9,4 +9,4 @@
 [![instagram](https://img.shields.io/badge/instagram-68997A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrjimin0402/)
 [![spotify](https://img.shields.io/badge/spotify-68997A?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/317bncemn7kbs34uclyufv7c5o7a)
 [![wakatime](https://img.shields.io/badge/wakatime-68997A?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@MrJimin)
-![Spigotmc](https://img.shields.io/badge/Spigotmc-68997A?style=for-the-badge&logo=spigotmc&logoColor=white)
+[![Spigotmc](https://img.shields.io/badge/Spigotmc-68997A?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/resources/authors/jimin_0402.1629204/)
